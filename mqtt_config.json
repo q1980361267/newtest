@@ -1,0 +1,9 @@
+{
+  "url": "10.12.6.24",
+  "port": 31226,
+  "productId": "101835",
+  "deviceSecret": "OTdjOWE2ZDY2ZDc2M2E4NmE5Nzc=",
+  "deviceId": "10392495",
+  "identifier": "someString",
+  "mqttBroker": "30004"
+}
